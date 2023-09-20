@@ -1,0 +1,184 @@
+two_letter_label,language_label,indigenous_name
+th,Thai,thai
+ik,Inupiaq,inupiaq
+si,Sinhala,siṁhala
+ch,Chamorro,
+li,Limburgan,
+sk,Slovak,slovenský (jazyk)
+sw,Swahili,Kiswahili
+rm,Romansh,romontsch
+sr,Serbian,srpski (jezik)
+kj,Kuanyama,oshikwanyama
+gu,Gujarati,gujarātī
+sd,Sindhi,sindhī
+en,English,English
+fa,Persian,fârsy
+uk,Ukrainian,ukraïns'ka mova
+cv,Chuvash,čǎvaš čělhi
+no,Norwegian,norsk
+mk,Macedonian,makedonski
+ng,Ndonga,oshindonga
+ja,Japanese,nihongo
+lu,Luba-Katanga,tshiluba
+ba,Bashkir,bašǩort
+cu,Church Slavic,cerkovno-slavânskij
+oj,Ojibwa,chippewa
+cy,Welsh,Cymraeg
+zh,Chinese,zhongwen
+hi,Hindi,hindī
+kn,Kannada,kannaḍa
+ms,Malay,bahasa Malaysia
+az,Azerbaijani,azǝrbaycan dil
+gl,Galician,galego
+hr,Croatian,hrvatski jezik
+pa,Panjabi,paṁjābī
+id,Indonesian,bahasa Indonesia
+uz,Uzbek,oʻzbek tili
+kr,Kanuri,kanuri
+zu,Zulu,isiZulu
+cr,Cree,nêhiyawa
+nr,South Ndebele,isiNdebele
+co,Corsican,corsu
+ka,Georgian,k'art'uli ena
+br,Breton,Brezhoneg
+bs,Bosnian,bosanski (jezik)
+an,Aragonese,
+ga,Irish,Gaeilge
+ab,Abkhazian,apṕsua bysžwa
+it,Italian,italiano
+lg,Ganda,luganda
+ki,Kikuyu,Gikuyu
+pl,Polish,(język) polski
+nv,Navajo,diné bizaad
+ml,Malayalam,malayāḷaṁ
+es,Spanish,castellano
+ug,Uighur,oyghurqǝ
+ln,Lingala,lingala
+mr,Marathi,marāṭī
+sl,Slovenian,slovenski (jezik)
+kg,Kongo,kikongo
+kw,Cornish,Kernewek
+de,German,Deutsch
+rw,Kinyarwanda,kinyarwanda
+km,Central Khmer,khmêr
+ve,Venda,Tshivenḓa
+tg,Tajik,toçikī
+hu,Hungarian,magyar nyelv
+av,Avaric,avar mac‡
+to,Tonga (Tonga Islands),tonga
+eo,Esperanto,esperanto
+ar,Arabic,'arabiy
+mh,Marshallese,M̧ajeł
+lo,Lao,pha xa lao
+oc,Occitan,occitan
+nl,Dutch,Nederlands
+ia,Interlingua,interlingua
+so,Somali,soomaali
+ty,Tahitian,
+fy,Western Frisian,frysk
+ru,Russian,russkij (âzyk)
+ko,Korean,choson-o
+dz,Dzongkha,dzongkha
+sg,Sango,sango
+ho,Hiri Motu,Hiri Motu
+bg,Bulgarian,"b""lgarski ezik"
+io,Ido,ido
+te,Telugu,telugu
+ak,Akan,akana
+ee,Ewe,eve
+ps,Pushto,pashto
+ha,Hausa,hausa
+hy,Armenian,hayeren lezow
+fi,Finnish,suomen kieli
+ie,Interlingue,interlingue
+ks,Kashmiri,kaśmīrī
+eu,Basque,euskara
+el,Modern Greek,elliniká
+bn,Bengali,bāṅlā
+sa,Sanskrit,saṁskr̥tam
+sc,Sardinian,sardu
+ii,Sichuan Yi,
+as,Assamese,asamī
+pt,Portuguese,português
+ca,Catalan,català
+yo,Yoruba,Yorùbá
+am,Amharic,amarinja
+ta,Tamil,tamiḻ
+la,Latin,lingua latina
+ts,Tsonga,Xitsonga
+ff,Fulah,fulfulde
+ay,Aymara,aymara
+tk,Turkmen,
+se,Northern Sami,davvisámegiella
+yi,Yiddish,yidiš
+bh,Bihari languages,bihārī
+st,Southern Sotho,Sesotho
+iu,Inuktitut,inuktitut
+sq,Albanian,shqip
+he,Hebrew,ivrit
+mt,Maltese,il-Malti
+ny,Chichewa,tshichewa
+nb,Norwegian Bokmal,bokmål
+jv,Javanese,bahasa Jawa
+ne,Nepali,nepālī
+na,Nauru,nauru
+is,Icelandic,íslenska
+za,Zhuang,cuengh
+ig,Igbo,igbo
+vo,Volapuk,volapük
+et,Estonian,eesti keel
+kl,Kalaallisut,kalaallisut
+gd,Gaelic,Gàidhlig
+kv,Komi,komi kyv
+rn,Rundi,kirundi
+nd,North Ndebele,isiNdebele
+lb,Luxembourgish,lëtzebuergesch
+mg,Malagasy,malagasy
+su,Sundanese,bahasa Sunda
+hz,Herero,otshiherero
+xh,Xhosa,isiXhosa
+mi,Maori,māori
+my,Burmese,myanmasa
+os,Ossetian,iron avzæg
+fj,Fijian,Na Vosa Vakaviti
+or,Oriya,oṛiā
+wa,Walloon,wallon
+ht,Haitian,
+fr,French,français
+ae,Avestan,
+sn,Shona,chiShona
+ur,Urdu,urdū
+fo,Faroese,føroyskt
+wo,Wolof,wolof
+mn,Mongolian,mongol
+aa,Afar,afar
+tw,Twi,twi
+ss,Swati,siSwati
+kk,Kazakh,ķazaķ (tili)
+lv,Latvian,latviešu valoda
+lt,Lithuanian,lietuvių kalba
+tt,Tatar,tatar tele
+ky,Kirghiz,kyrgyz tili
+bi,Bislama,bislama
+tn,Tswana,Setswana
+nn,Norwegian Nynorsk,nynorsk
+dv,Dhivehi,dhivehi
+ti,Tigrinya,tigriña
+be,Belarusian,belaruskaâ mova
+sv,Swedish,svenska
+bm,Bambara,bambankan
+ce,Chechen,nohčijn mott
+vi,Vietnamese,Tiếng Việt Nam
+qu,Quechua,qhëtshwa
+tl,Tagalog,tagalog
+bo,Tibetan,bod skad
+tr,Turkish,türkçe
+af,Afrikaans,Afrikaans
+cs,Czech,český jazyk
+gn,Guarani,guarani
+om,Oromo,(afan) oromo
+sm,Samoan,samoa
+pi,Pali,pāli bhāsa
+ku,Kurdish,zimany kurdy
+da,Danish,dansk
+ro,Romanian,(limba) moldoveanǎ

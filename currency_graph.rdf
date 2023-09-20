@@ -1,0 +1,2386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MICRONESIA__FEDERATED_STATES_OF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MICRONESIA__FEDERATED_STATES_OF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BYN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Belarusian Ruble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GRENADA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GRENADA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHILE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CHILE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UYN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Uruguay Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GQE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Ekwele</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PYG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Guarani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NLG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Netherlands Guilder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DOMINICAN_REPUBLIC__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>DOMINICAN_REPUBLIC__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CVE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cabo Verde Escudo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AOA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kwanza</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CUP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cuban Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UNITED_STATES_OF_AMERICA__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UNITED_STATES_OF_AMERICA__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TJR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Tajik Ruble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PERU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PERU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ITALY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ITALY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#COCOS__KEELING__ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>COCOS__KEELING__ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NEPAL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NEPAL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAMOA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAMOA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AUSTRALIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>AUSTRALIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CZK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Czech Koruna</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KYRGYZSTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>KYRGYZSTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GEORGIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GEORGIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AWG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Aruban Florin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZRN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Zaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BELGIUM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BELGIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CSD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Serbian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SUDAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SUDAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KHR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Riel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XEU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>European Currency Unit (E.C.U)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NORWAY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NORWAY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#JORDAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>JORDAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YUGOSLAVIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>YUGOSLAVIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MOLDOVA__THE_REPUBLIC_OF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MOLDOVA__THE_REPUBLIC_OF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MVR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rufiyaa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SSP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>South Sudanese Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NAURU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NAURU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AZM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Azerbaijanian Manat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Brunei Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ANG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Netherlands Antillean Guilder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AZERBAIJAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>AZERBAIJAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZMK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zambian Kwacha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NORTHERN_MARIANA_ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NORTHERN_MARIANA_ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UNITED_ARAB_EMIRATES__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UNITED_ARAB_EMIRATES__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LBP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lebanese Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ISLE_OF_MAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ISLE_OF_MAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MLF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mali Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#COSTA_RICA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>COSTA_RICA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LAK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lao Kip</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RUSSIAN_FEDERATION__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>RUSSIAN_FEDERATION__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GMD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Dalasi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ALK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Lek</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YUM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LIBYA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LIBYA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UKRAINE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UKRAINE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RUSSIAN_FEDERATION">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>RUSSIAN_FEDERATION</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BGK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lev A/62</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LATVIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LATVIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DJIBOUTI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>DJIBOUTI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ALGERIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ALGERIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KENYA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>KENYA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KWD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kuwaiti Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SYRIAN_ARAB_REPUBLIC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SYRIAN_ARAB_REPUBLIC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LUF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Luxembourg Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CYPRUS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CYPRUS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GHC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cedi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SISTEMA_UNITARIO_DE_COMPENSACION_REGIONAL_DE_PAGOS__SUCRE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SISTEMA_UNITARIO_DE_COMPENSACION_REGIONAL_DE_PAGOS__SUCRE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NPR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Nepalese Rupee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SERBIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SERBIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GTQ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Quetzal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LAO_PEOPLE_S_DEMOCRATIC_REPUBLIC__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LAO_PEOPLE_S_DEMOCRATIC_REPUBLIC__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MAURITANIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MAURITANIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Palladium">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Palladium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GWP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Guinea-Bissau Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GUERNSEY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GUERNSEY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LIBERIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LIBERIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MZE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mozambique Escudo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MAURITIUS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MAURITIUS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ALL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lek</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#INR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Indian Rupee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AYM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Azerbaijan Manat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MAYOTTE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MAYOTTE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_MARTIN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_MARTIN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TPE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Timor Escudo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SIT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Tolar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KPW">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>North Korean Won</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Swiss Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CANADA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CANADA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TAIWAN__PROVINCE_OF_CHINA_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TAIWAN__PROVINCE_OF_CHINA_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XPD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Palladium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NEW_CALEDONIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NEW_CALEDONIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ESP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Spanish Peseta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GHANA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GHANA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MALAWI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MALAWI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TRL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Turkish Lira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FIJI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FIJI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TTD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Trinidad and Tobago Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SPAIN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SPAIN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GHP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Ghana Cedi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HUF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Forint</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#WESTERN_SAHARA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>WESTERN_SAHARA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NAD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Namibia Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VENEZUELA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>VENEZUELA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CLF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Unidad de Fomento</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VEB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bolivar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VENEZUELA__BOLIVARIAN_REPUBLIC_OF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>VENEZUELA__BOLIVARIAN_REPUBLIC_OF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SOS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Somali Shilling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BAHRAIN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BAHRAIN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BTN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Ngultrum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KGS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Som</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#COU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Unidad de Valor Real</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAUDI_ARABIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAUDI_ARABIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BULGARIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BULGARIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SWAZILAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SWAZILAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_MARTIN__FRENCH_PART_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_MARTIN__FRENCH_PART_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NIUE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NIUE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_KITTS_AND_NEVIS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_KITTS_AND_NEVIS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BZD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Belize Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YUD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Yugoslavian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MKD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Denar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EUROPEAN_MONETARY_CO_OPERATION_FUND__EMCF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>EUROPEAN_MONETARY_CO_OPERATION_FUND__EMCF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PEH">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HUNGARY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>HUNGARY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EL_SALVADOR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>EL_SALVADOR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZWD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zimbabwe Dollar (old)</rdfs:label>
+    <rdfs:label>Zimbabwe Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HEARD_ISLAND_AND_McDONALD_ISLANDS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>HEARD_ISLAND_AND_McDONALD_ISLANDS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FRENCH_GUIANA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FRENCH_GUIANA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KZT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Tenge</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BANGLADESH">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BANGLADESH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ERITREA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ERITREA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MEMBER_COUNTRIES_OF_THE_AFRICAN_DEVELOPMENT_BANK_GROUP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MEMBER_COUNTRIES_OF_THE_AFRICAN_DEVELOPMENT_BANK_GROUP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KYD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cayman Islands Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HKD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Hong Kong Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CONGO__THE_DEMOCRATIC_REPUBLIC_OF_THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CONGO__THE_DEMOCRATIC_REPUBLIC_OF_THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XFU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>UIC-Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BUK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kyat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PEN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sol</rdfs:label>
+    <rdfs:label>Nuevo Sol </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZWN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zimbabwe Dollar (new)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BBD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Barbados Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#COLOMBIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>COLOMBIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SINT_MAARTEN__DUTCH_PART_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SINT_MAARTEN__DUTCH_PART_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZWC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rhodesian Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UYW">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Unidad Previsional</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CURA_AO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CURA_AO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DDM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mark der DDR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LUL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Luxembourg Financial Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BMD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bermudian Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CONGO__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CONGO__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SHP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Saint Helena Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SINGAPORE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SINGAPORE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MACAO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MACAO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Bond_Markets_Unit_European_EUA___">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Bond_Markets_Unit_European_EUA___</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MOLDOVA__REPUBLIC_OF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MOLDOVA__REPUBLIC_OF</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DOMINICA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>DOMINICA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LEBANON">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LEBANON</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UYP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Uruguayan Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UZBEKISTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UZBEKISTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MNT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Tugrik</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SDG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sudanese Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ARGENTINA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ARGENTINA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRUNEI_DARUSSALAM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BRUNEI_DARUSSALAM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Dong</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ANGUILLA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ANGUILLA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BEC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Convertible Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PUERTO_RICO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PUERTO_RICO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BWP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Pula</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#INDONESIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>INDONESIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Silver">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Silver</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HTG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Gourde</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ARP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Peso Argentino</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GEL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lari</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ATS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Schilling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XXX">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>The codes assigned for transactions where no currency is involved</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#IQD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Iraqi Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#QATAR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>QATAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#IRAQ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>IRAQ</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CUBA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CUBA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ILP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHAD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CHAD</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UYU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Peso Uruguayo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ISK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Iceland Krona</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GWE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Guinea Escudo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#C_TE_D_IVOIRE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>C_TE_D_IVOIRE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MARTINIQUE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MARTINIQUE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ROL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Leu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SURINAME">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SURINAME</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PLN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zloty</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LVR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Latvian Ruble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SIERRA_LEONE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SIERRA_LEONE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YEMEN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>YEMEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KOREA__THE_DEMOCRATIC_PEOPLE_S_REPUBLIC_OF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>KOREA__THE_DEMOCRATIC_PEOPLE_S_REPUBLIC_OF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UNITED_KINGDOM_OF_GREAT_BRITAIN_AND_NORTHERN_IRELAND__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UNITED_KINGDOM_OF_GREAT_BRITAIN_AND_NORTHERN_IRELAND__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XFO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Gold-Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LESOTHO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LESOTHO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ETHIOPIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ETHIOPIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YDD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Yemeni Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BERMUDA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BERMUDA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GNE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Syli</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MUR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mauritius Rupee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RHD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rhodesian Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LKR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sri Lanka Rupee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ISRAEL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ISRAEL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SERBIA_AND_MONTENEGRO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SERBIA_AND_MONTENEGRO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ISJ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Krona</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MXP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mexican Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SOMALIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SOMALIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UZS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Uzbekistan Sum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CDF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Congolese Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MMK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kyat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SEYCHELLES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SEYCHELLES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MALTA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MALTA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RON">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Romanian Leu</rdfs:label>
+    <rdfs:label>New Romanian Leu </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AMD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Armenian Dram</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZAL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Financial Rand</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BARBADOS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BARBADOS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BURKINA_FASO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BURKINA_FASO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GHS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Ghana Cedi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PALESTINE__STATE_OF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PALESTINE__STATE_OF</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GABON">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GABON</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MARSHALL_ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MARSHALL_ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XPF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>CFP Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GERMAN_DEMOCRATIC_REPUBLIC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GERMAN_DEMOCRATIC_REPUBLIC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ANGOLA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ANGOLA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NETHERLANDS_ANTILLES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NETHERLANDS_ANTILLES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#QAR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Qatari Rial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XSU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sucre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LRD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Liberian Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MONGOLIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MONGOLIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRITISH_INDIAN_OCEAN_TERRITORY__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BRITISH_INDIAN_OCEAN_TERRITORY__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KAZAKHSTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>KAZAKHSTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HOLY_SEE__VATICAN_CITY_STATE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>HOLY_SEE__VATICAN_CITY_STATE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FRENCH_SOUTHERN_TERRITORIES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FRENCH_SOUTHERN_TERRITORIES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PHILIPPINES__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PHILIPPINES__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VIRGIN_ISLANDS__BRITISH_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>VIRGIN_ISLANDS__BRITISH_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#STD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Dobra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TIMOR_LESTE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TIMOR_LESTE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MWK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Malawi Kwacha</rdfs:label>
+    <rdfs:label>Kwacha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Gold_Franc">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Gold_Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DOP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Dominican Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VEF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bolivar Fuerte</rdfs:label>
+    <rdfs:label>Bolivar</rdfs:label>
+    <rdfs:label>Bolívar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRAZIL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BRAZIL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GIBRALTAR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GIBRALTAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TUNISIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TUNISIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GERMANY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GERMANY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#JAPAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>JAPAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SRD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Surinam Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TOGO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TOGO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XOF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>CFA Franc BCEAO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FKP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Falkland Islands Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NIO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cordoba Oro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SOUTH_SUDAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SOUTH_SUDAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HNL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lempira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VIETNAM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>VIETNAM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ANDORRA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ANDORRA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAO_TOME_AND_PRINCIPE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAO_TOME_AND_PRINCIPE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GUATEMALA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GUATEMALA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#IRAN__ISLAMIC_REPUBLIC_OF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>IRAN__ISLAMIC_REPUBLIC_OF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VUV">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Vatu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EEK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kroon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RUB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Russian Ruble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#POLAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>POLAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UAH">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Hryvnia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CENTRAL_AFRICAN_REPUBLIC__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CENTRAL_AFRICAN_REPUBLIC__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#IDR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rupiah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FRENCH_SOUTHERN_TERRITORIES__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FRENCH_SOUTHERN_TERRITORIES__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BAM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Convertible Mark</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EGYPT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>EGYPT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bolívar Soberano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#R_UNION">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>R_UNION</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_HELENA__ASCENSION_AND_TRISTAN_DA_CUNHA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_HELENA__ASCENSION_AND_TRISTAN_DA_CUNHA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HRK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kuna</rdfs:label>
+    <rdfs:label>Croatian Kuna</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FAROE_ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FAROE_ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SYP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Syrian Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FRF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>French Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BYR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Belarusian Ruble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ESA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Spanish Peseta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GEK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Georgian Coupon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LITHUANIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LITHUANIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XAU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Gold</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DENMARK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>DENMARK</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DJF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Djibouti Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#THB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Baht</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XAG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Silver</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CSK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Koruna</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PAB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Balboa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CYP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cyprus Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MONACO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MONACO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ROMANIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ROMANIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Tunisian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___RINET_Funds_Code">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___RINET_Funds_Code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ESTONIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ESTONIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LTL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lithuanian Litas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XRE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>RINET Funds Code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MOROCCO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MOROCCO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ILR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Shekel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UGANDA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UGANDA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TWD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Taiwan Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VANUATU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>VANUATU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AOK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kwanza</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MADAGASCAR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MADAGASCAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PEI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Inti</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Testing_Code">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Testing_Code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CAD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Canadian Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KUWAIT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>KUWAIT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BONAIRE__SINT_EUSTATIUS_AND_SABA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BONAIRE__SINT_EUSTATIUS_AND_SABA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BHUTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BHUTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LAO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LAO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NICARAGUA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NICARAGUA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#OMR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rial Omani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TAJIKISTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TAJIKISTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BHD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bahraini Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MTP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Maltese Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YER">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Yemeni Rial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BEF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Belgian Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FRANCE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FRANCE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SLL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Leone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHW">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>WIR Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AOR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kwanza Reajustado</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>WIR Franc (for electronic)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ARUBA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ARUBA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#JPY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Yen</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Saudi Riyal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GNS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Syli</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VIRGIN_ISLANDS__U_S__">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>VIRGIN_ISLANDS__U_S__</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CUC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Peso Convertible</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VNC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Dong</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOLIVIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BOLIVIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MAD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Moroccan Dirham</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#_LAND_ISLANDS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>_LAND_ISLANDS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ADP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Andorran Peseta</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOLIVIA__PLURINATIONAL_STATE_OF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BOLIVIA__PLURINATIONAL_STATE_OF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHRISTMAS_ISLAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CHRISTMAS_ISLAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GUADELOUPE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GUADELOUPE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AFN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Afghani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MALI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MALI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>No universal currency</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NAMIBIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NAMIBIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NOK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Norwegian Krone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Peso boliviano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BGL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lev</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ROK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Leu A/52</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ESB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>"A" Account (convertible Peseta Account)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TOP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Pa'anga</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GRD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Drachma</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MYANMAR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MYANMAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MONTSERRAT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MONTSERRAT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UYI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Uruguay Peso en Unidades Indexadas (UI)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TUVALU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TUVALU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MRO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Ouguiya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XAF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>CFA Franc BEAC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GYD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Guyana Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RSD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Serbian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GUYANA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GUYANA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UGX">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Uganda Shilling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#WST">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Tala</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XDR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>SDR (Special Drawing Right)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NETHERLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NETHERLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOV">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mvdol</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KRW">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Won</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MOP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Pataca</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SKK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Slovak Koruna</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cruzeiro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NEW_ZEALAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NEW_ZEALAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LTT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Talonas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NGN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Naira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NETHERLANDS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NETHERLANDS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_PIERRE_AND_MIQUELON">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_PIERRE_AND_MIQUELON</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AZN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Azerbaijan Manat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GREENLAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GREENLAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GBP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Pound Sterling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#JMD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Jamaican Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LAJ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Pathet Lao Kip</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PANAMA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PANAMA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SVALBARD_AND_JAN_MAYEN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SVALBARD_AND_JAN_MAYEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>WIR Euro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MALDIVES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MALDIVES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AFGHANISTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>AFGHANISTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ECS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sucre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AUD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Australian Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Gold">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Gold</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NORTH_MACEDONIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NORTH_MACEDONIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AUSTRIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>AUSTRIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___No_Currency">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___No_Currency</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TONGA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TONGA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ITL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Italian Lira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UAK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Karbovanet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NIGER__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NIGER__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ETB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Ethiopian Birr</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SENEGAL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SENEGAL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XPT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Platinum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UNITED_STATES_MINOR_OUTLYING_ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UNITED_STATES_MINOR_OUTLYING_ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TJS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Somoni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#JERSEY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>JERSEY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TANZANIA__UNITED_REPUBLIC_OF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TANZANIA__UNITED_REPUBLIC_OF</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FALKLAND_ISLANDS__THE___MALVINAS_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FALKLAND_ISLANDS__THE___MALVINAS_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ARS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Argentine Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOSNIA_AND_HERZEGOVINA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BOSNIA_AND_HERZEGOVINA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Platinum">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Platinum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ALBANIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ALBANIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOTSWANA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BOTSWANA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HONDURAS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>HONDURAS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SDP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sudanese Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CAYMAN_ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CAYMAN_ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BENIN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BENIN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SUDAN__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SUDAN__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SOUTHERN_RHODESIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SOUTHERN_RHODESIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PTE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Portuguese Escudo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SLOVENIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SLOVENIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SGD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Singapore Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XBA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bond Markets Unit European Composite Unit (EURCO)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CLP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Chilean Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UGS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Uganda Shilling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GUINEA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GUINEA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#USN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>US Dollar (Next day)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cruzeiro Real</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Brazilian Real</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BAHAMAS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BAHAMAS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LUC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Luxembourg Convertible Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UGW">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Old Shilling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Boliviano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RWANDA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>RWANDA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ECUADOR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ECUADOR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MONTENEGRO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MONTENEGRO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TMT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Turkmenistan New Manat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EGP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Egyptian Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BIF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Burundi Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XCD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>East Caribbean Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PLZ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zloty</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SEK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Swedish Krona</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MOZAMBIQUE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MOZAMBIQUE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ILS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Israeli Sheqel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MALAYSIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MALAYSIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#IRR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Iranian Rial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CAMBODIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CAMBODIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#INTERNATIONAL_MONETARY_FUND__IMF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>INTERNATIONAL_MONETARY_FUND__IMF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BELARUS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BELARUS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XBC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HOLY_SEE__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>HOLY_SEE__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KOREA__THE_REPUBLIC_OF_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>KOREA__THE_REPUBLIC_OF_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SOLOMON_ISLANDS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SOLOMON_ISLANDS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CZECHOSLOVAKIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CZECHOSLOVAKIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TZS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Tanzanian Shilling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GIP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Gibraltar Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LSL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Loti</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GAMBIA__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GAMBIA__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PHP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Philippine Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ARY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TURKS_AND_CAICOS_ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TURKS_AND_CAICOS_ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ICELAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ICELAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KMF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Comorian Franc </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PGK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kina</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HONG_KONG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>HONG_KONG</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PORTUGAL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PORTUGAL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZAIRE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZAIRE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XBD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LYD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Libyan Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BGJ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lev A/52</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FJD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Fiji Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cruzeiro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NZD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Zealand Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#JAMAICA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>JAMAICA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BYB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Belarusian Ruble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PITCAIRN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PITCAIRN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Bond_Markets_Unit_European_EURCO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Bond_Markets_Unit_European_EURCO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAN_MARINO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAN_MARINO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CABO_VERDE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CABO_VERDE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cruzado</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#JOD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Jordanian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GUINEA_BISSAU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GUINEA_BISSAU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RWF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rwanda Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#RUR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Russian Ruble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PARAGUAY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PARAGUAY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SWEDEN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SWEDEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BURMA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BURMA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MGA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Malagasy Ariary</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SUR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rouble</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#IRELAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>IRELAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XTS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Codes specifically reserved for testing purposes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SDD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Sudanese Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#THAILAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>THAILAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ARMENIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ARMENIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YEMEN__DEMOCRATIC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>YEMEN__DEMOCRATIC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BELIZE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BELIZE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_VINCENT_AND_THE_GRENADINES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_VINCENT_AND_THE_GRENADINES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HAITI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>HAITI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FIM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Markka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CHINA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CHINA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TURKEY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TURKEY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LIECHTENSTEIN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LIECHTENSTEIN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZMW">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zambian Kwacha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NIGERIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NIGERIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CZECHIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CZECHIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#COP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Colombian Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MGF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Malagasy Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AMERICAN_SAMOA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>AMERICAN_SAMOA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#YUN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Yugoslavian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FRENCH_POLYNESIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FRENCH_POLYNESIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XBB">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bond Markets Unit European Monetary Unit (E.M.U.-6)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GUAM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GUAM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KIRIBATI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>KIRIBATI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CNY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Yuan Renminbi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SOUTH_AFRICA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SOUTH_AFRICA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#KES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Kenyan Shilling</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_BARTH_LEMY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_BARTH_LEMY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Bond_Markets_Unit_European_EMU__">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Bond_Markets_Unit_European_EMU__</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ANTIGUA_AND_BARBUDA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ANTIGUA_AND_BARBUDA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SCR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Seychelles Rupee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#IEP">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Irish Pound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZIMBABWE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZIMBABWE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MDL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Moldovan Leu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#URUGUAY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>URUGUAY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#INDIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>INDIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BOUVET_ISLAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BOUVET_ISLAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#STN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Dobra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LSM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Loti</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BEL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Financial Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LUXEMBOURG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>LUXEMBOURG</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___Bond_Markets_Unit_European_EUA__">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___Bond_Markets_Unit_European_EUA__</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZWL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zimbabwe Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MZM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mozambique Metical</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ERN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Nakfa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ESWATINI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ESWATINI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EUROPEAN_UNION">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>EUROPEAN_UNION</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PAKISTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PAKISTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CAMEROON">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CAMEROON</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MXV">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mexican Unidad de Inversion (UDI)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BRN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Cruzado</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#USD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>US Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SBD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Solomon Islands Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MTL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Maltese Lira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TOKELAU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TOKELAU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TRINIDAD_AND_TOBAGO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TRINIDAD_AND_TOBAGO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EUR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Euro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MYR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Malaysian Ringgit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CSJ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Krona A/53</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MEXICO">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>MEXICO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TURKMENISTAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>TURKMENISTAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DZD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Algerian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TRY">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Turkish Lira</rdfs:label>
+    <rdfs:label>New Turkish Lira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#TMM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Turkmenistan Manat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SRG">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Surinam Guilder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SAINT_LUCIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SAINT_LUCIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AED">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>UAE Dirham</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CROATIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>CROATIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AFA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Afghani</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SRI_LANKA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SRI_LANKA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GREECE">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>GREECE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BSD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bahamian Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SVC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>El Salvador Colon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#AON">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>New Kwanza</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UNITED_STATES">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UNITED_STATES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NORFOLK_ISLAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>NORFOLK_ISLAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#COOK_ISLANDS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>COOK_ISLANDS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#XUA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>ADB Unit of Account</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MXN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mexican Peso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#USS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>US Dollar (Same day)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SWITZERLAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SWITZERLAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DEM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Deutsche Mark</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#UNION_OF_SOVIET_SOCIALIST_REPUBLICS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>UNION_OF_SOVIET_SOCIALIST_REPUBLICS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#WALLIS_AND_FUTUNA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>WALLIS_AND_FUTUNA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#EQUATORIAL_GUINEA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>EQUATORIAL_GUINEA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BDT">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Taka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#VIET_NAM">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>VIET_NAM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BGN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Bulgarian Lev</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PAPUA_NEW_GUINEA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PAPUA_NEW_GUINEA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#COMOROS__THE_">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>COMOROS__THE_</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ECV">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Unidad de Valor Constante (UVC)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZAR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Rand</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SLOVAKIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SLOVAKIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MVQ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Maldive Rupee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#DKK">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Danish Krone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#FINLAND">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>FINLAND</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ARA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Austral</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ANTARCTICA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ANTARCTICA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BAD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZWR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zimbabwe Dollar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#HRD">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Croatian Dinar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PALAU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>PALAU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SOUTH_GEORGIA_AND_THE_SOUTH_SANDWICH_ISLANDS">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>SOUTH_GEORGIA_AND_THE_SOUTH_SANDWICH_ISLANDS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZZ___UIC_Franc">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZZ___UIC_Franc</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZRZ">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Zaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MRU">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Ouguiya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#OMAN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>OMAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#PKR">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Pakistan Rupee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#NIC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Cordoba</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#CRC">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Costa Rican Colon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#MZN">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Mozambique Metical</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#SZL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Lilangeni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#ZAMBIA">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>ZAMBIA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#LVL">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Latvian Lats</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#BURUNDI">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Country"/>
+    <rdfs:label>BURUNDI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.bankofcanada.ca/model#GNF">
+    <rdf:type rdf:resource="https://www.bankofcanada.ca/model#Currency"/>
+    <rdfs:label>Guinean Franc</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
